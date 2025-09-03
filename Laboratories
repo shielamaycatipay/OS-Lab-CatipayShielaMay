@@ -1,0 +1,18 @@
+OS-Lab-CatipayShielaMay/
+├── Lab1_Process/
+│   ├── process.c
+│   ├── output.png
+│   └── README.md
+├── Lab2_Scheduling/
+│   ├── scheduling.c
+│   ├── gantt_chart.txt
+│   └── README.md
+├── Lab3_Memory/
+│   ├── memory.c
+│   ├── results.txt
+│   └── README.md
+...
+└── Lab10_DiskScheduling/
+    ├── disk_scheduling.c
+    ├── results.txt
+    └── README.md
