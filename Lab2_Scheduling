@@ -1,0 +1,4 @@
+├── Lab2_Scheduling/
+│   ├── scheduling.c
+│   ├── gantt_chart.txt
+│   └── README.md
